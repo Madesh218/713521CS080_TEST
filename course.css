@@ -1,0 +1,67 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+    margin: 20px;
+}
+
+header {
+    background-color: #4349c27f;
+    color: #000000;
+    text-align: center;
+    padding: 10px 0;
+}
+
+h1, h2 {
+    margin: 10px 0;
+}
+
+.course-list {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .course-list {
+        padding: 15px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    ul li {
+        font-size: 14px;
+    }
+}
+h1{
+
+    height:30px;
+    border-radius:10px;
+
+}
+
+.course{
+            
+              background-color: rgb(192, 173, 173);
+              color: black;            
+
+}

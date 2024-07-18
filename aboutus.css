@@ -1,0 +1,35 @@
+p{
+
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 610;
+    font-style: italic;
+    width:100pc;
+    padding-left: 10pc;
+    margin-top: 0pc;
+    position:absolute;
+    color: #000000;
+}
+
+.back3{
+background-image: url(https://img.freepik.com/free-vector/flat-national-science-day-background_23-2149283127.jpg);
+background-repeat: no-repeat;
+background-color: #000000;
+background-size: 100pc;
+
+height:80pc;
+
+}
+
+
+footer{
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position:relative;
+    width: 100%;
+    bottom: 0;
+    height:20px;
+    opacity:50pc;
+}
